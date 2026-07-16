@@ -1,4 +1,3 @@
-<img width="780" height="250" alt="Full width BG for Github profile 12.png" src="https://github.com/user-attachments/assets/8d3659d5-f187-405f-8929-64dfbc53db61" />
 
 # Hi there! I'm Mainuddin Ahmed Chowdhury 
 
