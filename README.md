@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer & Data Architect | Building High-Performance Web Applications & Dynamic Solutions
 
-Specialized in developing robust, database-driven web applications and clean user experiences. I focus on writing efficient, scalable code that optimizes business workflows and delivers measurable technical performance.
+Engineering clean, responsive frontend architectures and secure backend systems designed to solve real-world operational and data challenges. Having successfully completed 50+ independent projects for clients across diverse industries, I specialize in transforming complex business logic into efficient, deployment-ready software.
 
 <p align="left">
   <img src="https://komarev.com" alt="Profile Views" />
