@@ -1,10 +1,10 @@
 <img width="735" height="250" alt="Full width BG for Github profile 1" src="https://github.com/user-attachments/assets/8d3659d5-f187-405f-8929-64dfbc53db61" />
 
-# Hi there! I'm Mainuddin Ahmed Chowdhury 👋
+# Hi there! I'm Mainuddin Ahmed Chowdhury 
 
-### Sales Leader Turned Technical Developer | Building High-Conversion Web Solutions
+### Full-Stack Web Developer & Data Architect | Building High-Performance Web Applications & Dynamic Solutions
 
-Combining **35 years of executive sales** with web development, I don’t just build websites; I architect high-converting digital platforms engineered to capture leads, optimize conversion rates and drive measurable revenue growth.
+Specialized in developing robust, database-driven web applications and clean user experiences. I focus on writing efficient, scalable code that optimizes business workflows and delivers measurable technical performance.
 
 <p align="left">
   <img src="https://komarev.com" alt="Profile Views" />
