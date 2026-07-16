@@ -14,9 +14,9 @@ Specialized in developing robust, database-driven web applications and clean use
 
 ### 💼 Why Work With Me?
 
-* **Business-Driven Development:** I bridge the gap between complex code and executive commercial goals.
-* **Sales Pipeline Expertise:** I specialize in building web tools that align perfectly with your sales funnel.
-* **Veteran Communication:** Expect enterprise-level project management, clear timelines, and absolute reliability.
+* **Business-Driven Development:** I write clean, optimized code (HTML5, CSS3, JS, PHP, SQL) and build custom WordPress solutions focused on site speed, responsiveness, and architecture stability.
+* **Data & Logic Alignment:** Specialized in database design and query optimization, ensuring web tools handle data transactions seamlessly.
+* **Professional Execution:** Backed by decades of professional project execution, ensuring absolute reliability, clear documentation, and strict timeline adherence.
 
 ---
 
