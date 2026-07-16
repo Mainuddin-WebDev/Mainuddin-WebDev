@@ -59,8 +59,7 @@ Specialized in developing robust, database-driven web applications and clean use
 
 ### 📬 Let's Discuss Your Project
 
-I am currently accepting independent consulting and freelance web development contracts.
-
+I am currently accepting freelance web development contracts and technical collaborations worldwide. If you need a developer who delivers robust architecture and reliable code on time, let's connect.
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](mailto:mainuddin.chy@gmail.com)
 [![View CV](https://shields.io)](https://google.com)
