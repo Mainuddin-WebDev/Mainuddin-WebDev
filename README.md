@@ -1,5 +1,5 @@
 
-<img width="780" height="250" alt="Full width BG for Github profile12.png" src="Full width BG for Github profile12.png" />
+<img width="1080" height="350" alt="Full width BG for Github profile12.png" src="Full width BG for Github profile12.png" />
 
 
 # Hi there! I'm Mainuddin Ahmed Chowdhury 
