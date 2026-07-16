@@ -1,4 +1,5 @@
 
+<img src"Full width BG for Github profile 12.png"/>
 # Hi there! I'm Mainuddin Ahmed Chowdhury 
 
 ### Full-Stack Web Developer & Data Architect | Building High-Performance Web Applications & Dynamic Solutions
