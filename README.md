@@ -1,6 +1,7 @@
 
 <img width="1080" height="350" alt="mainuddin-ahmed-chowdhury- wordpress and full stake web-developer.png
-" src="Full width BG for Github profile12.png" />
+" src="mainuddin-ahmed-chowdhury- wordpress and full stake web-developer.png
+" />
 
 
 # Hi there! I'm Mainuddin Ahmed Chowdhury 
