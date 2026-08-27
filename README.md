@@ -1,6 +1,6 @@
 
-<img width="1080" height="350" alt="mainuddin-ahmed-chowdhury- wordpress and full stake web-developer.png
-" src="mainuddin-ahmed-chowdhury- wordpress and full stake web-developer.png
+<img width="1080" height="350" alt="mainuddin-ahmed-chowdhury-wordpress-and-full-stack-web-developer.png
+" src="mainuddin-ahmed-chowdhury-wordpress-and-full-stack-web-developer.png
 " />
 
 
