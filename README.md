@@ -65,4 +65,5 @@ Engineering clean, responsive frontend architectures and secure backend systems 
 I am currently accepting freelance web development contracts and technical collaborations worldwide. If you need a developer who delivers robust architecture and reliable code on time, let's connect.
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/mainuddin-ahmed-chowdhury/)
 [![Email](https://shields.io)](mailto:mainuddin.chy@gmail.com)
-[![View CV](https://shields.io)](https://google.com)
+[![View CV](https://shields.io)](./MAC%20CV_updated_Jun%2026.pdf)
+
