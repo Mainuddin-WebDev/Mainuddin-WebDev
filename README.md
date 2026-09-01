@@ -5,7 +5,7 @@
 
 # Hi There! I'm Mainuddin Ahmed Chowdhury 👋
 
-### 💻 Front-End Developer & WordPress Customization Specialist | Building Highly-Responsive Layouts & Dynamic Interfaces
+### 💻 Full-Stack Developer | Front-End Developer & WordPress Customization Specialist | Building Highly-Responsive Layouts & Dynamic Interfaces
 
 I specialize in engineering fluid, mobile-responsive frontend web layouts and customizing robust content management systems. Bridging the gap between user experience mockups and production-ready code, I focus on transforming pixel-perfect designs from Figma templates into clean, highly optimized web layouts.
 
